@@ -14,6 +14,22 @@
   z-index: 9999;
 }
 
+.layout-cabecalho-assine {
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #ccc;
+
+  background-color: #003b6a;
+}
+
+.layout-cabecalho--home-assine {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
 .layout-planos {
   padding: 15px 0;
 }
